@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T13:45:37.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" version="15.2.9" etag="oUz-Zqx2cyt1Qvgt4SBy" type="github"><diagram id="ZmAQSO5V6N5-Nyn3_5Sq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-21T13:54:58.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="MJTjPQrxG3gMbzK9jwFZ" version="15.2.9" type="github">
+  <diagram id="ZmAQSO5V6N5-Nyn3_5Sq" name="Page-1">
+    <mxGraphModel dx="799" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EbiFpbVrne4fElhvrxOh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="390" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="EbiFpbVrne4fElhvrxOh-3" value="Navigation Bar&amp;nbsp;&lt;br&gt;View Records, Add Record, About, ect." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbiFpbVrne4fElhvrxOh-5" value="List of Records &amp;nbsp;(Length, Beats, Play Button, )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="350" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="EbiFpbVrne4fElhvrxOh-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="390" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="EbiFpbVrne4fElhvrxOh-10" value="Navigation Bar&amp;nbsp;&lt;br&gt;View Records, Add Record, About, ect." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbiFpbVrne4fElhvrxOh-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="350" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="EbiFpbVrne4fElhvrxOh-12" value="Name:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbiFpbVrne4fElhvrxOh-13" value="Beats:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="310" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EbiFpbVrne4fElhvrxOh-14" value="Drag and Drop File Here" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EbiFpbVrne4fElhvrxOh-15" value="Record View" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EbiFpbVrne4fElhvrxOh-16" value="Add Record View" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="100" width="125" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
