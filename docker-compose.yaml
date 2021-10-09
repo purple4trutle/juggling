@@ -9,8 +9,7 @@ services:
       - POSTGRES_DB=postgres
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
-
-    
+ 
   api:
     build: ./backend/
     command: "python src/api/manage.py runserver 0.0.0.0:8000"
@@ -21,7 +20,6 @@ services:
     depends_on:
       - db
   
-
   frontend:
     build: ./frontend/
     ports:
