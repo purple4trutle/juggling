@@ -12,7 +12,7 @@ services:
  
   api:
     build: ./backend/
-    command: "python src/api/manage.py runserver 0.0.0.0:8000"
+    command: "python src/django_backend/manage.py runserver 0.0.0.0:8000"
     ports:
       - "8000:8000"
     env_file:
