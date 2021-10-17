@@ -130,3 +130,5 @@ dmypy.json
 .pyre/
 
 db/
+.tmp
+backend/src/django_backend/tmp/*
